@@ -131,5 +131,9 @@ dist
 .pnp.*
 =======
 node_modules
+<<<<<<< HEAD
 .env
 >>>>>>> week-8
+=======
+.env
+>>>>>>> 4c9eb04 (add dependencies)

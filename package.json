@@ -29,9 +29,13 @@
     "nodemon": "^3.1.4",
     "swagger-cli": "^4.0.4",
     "swagger-jsdoc": "^6.2.8",
+<<<<<<< HEAD
     "swagger-ui-express": "^5.0.1",
     "webpack": "^5.92.1",
     "webpack-cli": "^5.1.4",
     "webpack-node-externals": "^3.0.0"
+=======
+    "swagger-ui-express": "^5.0.1"
+>>>>>>> 4c9eb04 (add dependencies)
   }
 }
